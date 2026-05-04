@@ -78,8 +78,9 @@ All logs are written to the `logs/` folder next to the script:
 ──────────────────────────────────────────────────────────────
   filesync v1.0.0  |  SIMULATION  |  2026-05-04_14-30-00
 ──────────────────────────────────────────────────────────────
-  source   : /Volumes/DriveA
-  target   : /Volumes/DriveB
+  source   : /Volumes/DriveA -- '/Volumes/Elements/Lisa'
+
+  target   : /Volumes/DriveB -- '/Volumes/Samsung SSD'
   checksum : no (size only)
   delete   : no
   resume   : no
